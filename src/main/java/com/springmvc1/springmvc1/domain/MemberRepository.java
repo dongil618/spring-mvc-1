@@ -1,4 +1,4 @@
-package com.springmvc1.springmvc1.basic.domain;
+package com.springmvc1.springmvc1.domain;
 
 import java.util.ArrayList;
 import java.util.HashMap;

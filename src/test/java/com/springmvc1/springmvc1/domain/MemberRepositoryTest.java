@@ -1,13 +1,13 @@
-package com.springmvc1.springmvc1.basic.domain;
+package com.springmvc1.springmvc1.domain;
 
+import com.springmvc1.springmvc1.domain.Member;
+import com.springmvc1.springmvc1.domain.MemberRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class MemberRepositoryTest {
 
